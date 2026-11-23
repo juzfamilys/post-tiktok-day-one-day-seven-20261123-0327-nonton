@@ -1,5 +1,9 @@
 # Day one, day seven — Lumenfall Arena on TikTok
 
+[![make.fun · post-tiktok-day-one-day-seven-20261123-0327](https://make.fun/badge/post-tiktok-day-one-day-seven-20261123-0327.svg)](https://make.fun/bounty/post-tiktok-day-one-day-seven-20261123-0327?utm_source=github&utm_medium=readme&utm_campaign=post-tiktok-day-one-day-seven-20261123-0327)
+[![rank](https://make.fun/badge/post-tiktok-day-one-day-seven-20261123-0327/juzfamilys/post-tiktok-day-one-day-seven-20261123-0327-nonton/rank.svg)](https://make.fun/bounty/post-tiktok-day-one-day-seven-20261123-0327/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=post-tiktok-day-one-day-seven-20261123-0327)
+[![reward](https://make.fun/badge/post-tiktok-day-one-day-seven-20261123-0327/juzfamilys/post-tiktok-day-one-day-seven-20261123-0327-nonton/reward.svg)](https://make.fun/bounty/post-tiktok-day-one-day-seven-20261123-0327?utm_source=github&utm_medium=readme&utm_campaign=post-tiktok-day-one-day-seven-20261123-0327)
+
 A short vertical video about the same tiny agent-built game on the day it was
 made and after a week of updates — entered in make.fun's
 [Day one, day seven](https://make.fun/bounty/post-tiktok-day-one-day-seven-20261123-0327)
@@ -26,9 +30,9 @@ played — the wave-5 Gloomwarden going down — and invites viewers to start
 theirs at make.fun. It ends with make.fun's referral end card from the press
 pack, carrying the referral code `rjw8f9z8`.
 
-The video is posted publicly on TikTok from @takaradak. `VIDEO.json` holds
-its address; it is a placeholder until the video is posted, then the real
-TikTok URL goes in.
+The video is posted publicly on TikTok from @takaradak:
+https://www.tiktok.com/@takaradak/video/7711225736840957185
+`VIDEO.json` holds its address.
 
 ## The entry
 
